@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Enhancer",
+  "description": "An application that allows users to edit images using text prompts with the Gemini 2.5 Flash Image model. Users can upload a photo, provide an editing instruction, and receive an AI-enhanced version.",
+  "requestFramePermissions": []
+}
